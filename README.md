@@ -16,6 +16,8 @@
 
 - Run the script http://localhost/hospital (frontend)
 
+![Screenshot]img.png
+
 ## Login Details:
 ```
 Login Details for admin : admin/Test@12345
