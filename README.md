@@ -16,7 +16,7 @@
 
 - Run the script http://localhost/hospital (frontend)
 
-![Screenshot]img.png
+![Screenshot](img.png)
 
 ## Login Details:
 ```
