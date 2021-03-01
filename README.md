@@ -1,4 +1,4 @@
-# hms
+# Hospital Management System Project
 
 ## How to run the Hospital Management System Project:
 
