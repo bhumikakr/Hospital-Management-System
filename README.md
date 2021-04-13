@@ -2,15 +2,15 @@
 
 ## How to run the Hospital Management System Project:
 
-- Download the  zip file
+- Download the  zip file.
 
-- Extract the file and copy hospital folder
+- Extract the file and copy hospital folder.
 
-- Paste inside root directory i.e xampp -> xampp/htdocs
+- Paste inside root directory i.e xampp -> xampp/htdocs.
 
 - Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-- Create a database with name hms
+- Create a database with name hms.
 
 - Import hms.sql file(given inside the zip package in SQL file folder)
 
@@ -20,7 +20,7 @@
 
 ## Login Details:
 ```
-Login Details for Admin : admin/Test@12345
+Login Details for Admin: admin/Test@12345
 ```
 ```
 Login Details for Patient: test@gmail.com/Test@123
